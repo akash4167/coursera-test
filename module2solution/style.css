@@ -28,17 +28,19 @@ body {
   	margin:3px;
   	padding:5px;
   	height:130px;
+    border-radius:15px;
   }
 
    .row > div > div {
    	border:1px solid black;
    	color:white;
    	position:relative;
-   	width:30%;
+   	width:35%;
    	background-color:maroon;
    	float:right;
    	text-align:center;
    	font-size:20px;
+    border-radius:5%;
    }
 
    @media (min-width: 992px) {
@@ -57,4 +59,3 @@ body {
    .col-xs-12 {float:left; border: 1px solid black; }
    .col-xs-12 {width: 100%; }
    }
-
