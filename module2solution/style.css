@@ -51,7 +51,7 @@ body {
    @media (min-width: 768px) and (max-width:991px) {
    .col-sm-6, .col-sm-12 {float:left; border: 1px solid black; }
    .col-sm-6 {width: 49%; }
-   .col-sm-12 {width: 100%; }
+   .col-sm-12 {width: 98%; }
    }
 
 
